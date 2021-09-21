@@ -1,0 +1,104 @@
+- Session info ------------------------------------------------
+ setting  value                       
+ version  R version 3.6.3 (2020-02-29)
+ os       Windows 10 x64              
+ system   x86_64, mingw32             
+ ui       RStudio                     
+ language (EN)                        
+ collate  Portuguese_Brazil.1252      
+ ctype    Portuguese_Brazil.1252      
+ tz       America/Buenos_Aires        
+ date     2021-09-21                  
+
+- Packages ----------------------------------------------------
+ package     * version date       lib
+ cachem        1.0.4   2021-02-13 [1]
+ callr         3.7.0   2021-04-20 [1]
+ cli           3.0.1   2021-07-17 [1]
+ codetools     0.2-16  2018-12-24 [2]
+ colorspace    2.0-2   2021-06-24 [1]
+ crayon        1.4.1   2021-02-08 [1]
+ desc          1.3.0   2021-03-05 [1]
+ devtools    * 2.4.2   2021-06-07 [1]
+ dismo         1.3-3   2020-11-17 [1]
+ ellipsis      0.3.2   2021-04-29 [1]
+ fastmap       1.1.0   2021-01-25 [1]
+ fs            1.5.0   2020-07-31 [1]
+ glue          1.4.2   2020-08-27 [1]
+ kuenm         1.1.7   2021-09-15 [1]
+ lattice       0.20-38 2018-11-04 [2]
+ lifecycle     1.0.0   2021-02-15 [1]
+ magrittr      2.0.1   2020-11-17 [1]
+ maxnet        0.1.4   2021-09-15 [1]
+ memoise       2.0.0   2021-01-26 [1]
+ modleR      * 0.0.1   2021-09-15 [1]
+ munsell       0.5.0   2018-06-12 [1]
+ pkgbuild      1.2.0   2020-12-15 [1]
+ pkgload       1.2.2   2021-09-11 [1]
+ prettyunits   1.1.1   2020-01-24 [1]
+ processx      3.5.2   2021-04-30 [1]
+ ps            1.6.0   2021-02-28 [1]
+ purrr         0.3.4   2020-04-17 [1]
+ R6            2.5.1   2021-08-19 [1]
+ raster      * 3.4-13  2021-06-18 [1]
+ rbibutils     2.1.1   2021-04-28 [1]
+ Rcpp          1.0.7   2021-07-07 [1]
+ Rdpack        2.1.2   2021-06-01 [1]
+ remotes     * 2.4.0   2021-06-02 [1]
+ rgdal         1.5-26  2021-09-15 [1]
+ rgeos         0.5-5   2020-09-07 [1]
+ rlang         0.4.11  2021-04-30 [1]
+ rprojroot     2.0.2   2020-11-15 [1]
+ scales        1.1.1   2020-05-11 [1]
+ sessioninfo   1.1.1   2018-11-05 [1]
+ sp          * 1.4-5   2021-01-10 [1]
+ testthat      3.0.2   2021-02-14 [1]
+ usethis     * 2.0.1   2021-02-10 [1]
+ withr         2.4.2   2021-04-18 [1]
+ source                             
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ Github (marlonecobos/kuenm@c19f6bf)
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ Github (mrmaxent/maxnet@534614d)   
+ CRAN (R 3.6.3)                     
+ Github (Model-R/modleR@dfc33fd)    
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+ CRAN (R 3.6.3)                     
+
+[1] C:/Users/thati/OneDrive/Documentos/R/win-library/3.6
+[2] C:/Program Files/R/R-3.6.3/library
